@@ -29,6 +29,7 @@ Please fill the Please fill the [registration form](https://github.com/cubenlp/E
 | 16 | NP-ESSAY |
 | 17 | 炼丹师_zzunlp |
 | 18 | BIT ESSAY |
+| 19 | Prompt |
 
 # News
 | Date | News |
