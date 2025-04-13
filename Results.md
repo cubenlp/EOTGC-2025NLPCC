@@ -9,3 +9,7 @@ The total score is computed as follows:
 
 | Rank | System Name | Track1 | Track2 | Total |
 | ---- | ---- | ---- | ---- | ---- |
+| 1 | ZZUNLP_Han | 0.738 | 0.683 | 0.705 |
+| 2 | Fighting! | 0.681 | 0.619 | 0.644 |
+| 3 | zzunlp | 0.700 | 0.606 | 0.644 |
+| 4 | DUFL2025 | 0.721 | 0.548 | 0.617 |
