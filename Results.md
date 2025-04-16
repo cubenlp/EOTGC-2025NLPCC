@@ -16,3 +16,15 @@ The total score is computed as follows:
 | 5 | Fighting! | 0.6811 | 0.6192 | 0.6439 |
 | 6 | zzunlp | 0.6999 | 0.6060 | 0.6436 |
 | 7 | 炼丹师_zzunlp | 0.5586 | 0.6405 | 0.6078 |
+
+### Daily Leaderboard (April 15, 2025)
+*(This daily ranking is provided for reference only.)*
+| Rank | System Name | Track1 | Track2 | Total |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | liberty | 0.7404 | 0.6118 | 0.6632 |
+| 2 | TW-NLP | 0.7416 | 0.5941 | 0.6531 |
+| 3 | Prompt | 0.6705 | 0.6258 | 0.6437 |
+| 4 | DUFL20252 | 0.7210 | 0.5744 | 0.6330 |
+| 5 | DUFL20251 | 0.7162 | 0.5464 | 0.6143 |
+| 6 | 炼丹师_zzunlp | 0.5586 | 0.6418 | 0.6085 |
+| 7 | Fighting! | 0.5894 | 0.5995 | 0.5955 |
