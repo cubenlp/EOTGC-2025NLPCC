@@ -18,7 +18,7 @@ The total score is computed as follows:
 | 7 | Prompt | 0.7484 | 0.5603 | 0.6356 |
 | 8 | 炼丹师_zzunlp | 0.5586 | 0.6405 | 0.6078 |
 
-### Daily Leaderboard (April 15, 2025)
+### Daily Leaderboard (April 16, 2025)
 *(This daily ranking is provided for reference only.)*
 | Rank | System Name | Track1 | Track2 | Total |
 | ---- | ---- | ---- | ---- | ---- |
