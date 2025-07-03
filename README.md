@@ -10,26 +10,26 @@ For more information, please read the [Task Guideline.md](https://github.com/cub
 Please fill the Please fill the [registration form](https://github.com/cubenlp/EOTGC-2025NLPCC/raw/main/NLPCC2025.SharedTask2.RegistrationForm.doc) and sent it to hx_dong@stu.ecnu.edu.cn. If the registration works well, you may found your team name in the table below within 48 hours:
 
 | ID | Team Name |
-|:-------:|:-------:|
-| 1 | ZZU-NLP |
-| 2 | Cloud Lab |
-| 3 | liberty |
-| 4 | ZZUNLP_Han |
-| 5 | Fighting! |
-| 6 | 西西恩优NLP |
-| 7 | TW-NLP |
-| 8 | YouTuLab_Jarvis |
-| 9 | YNU-HPCC |
-| 10 | CGCL-NLP |
-| 11 | shmtuCFL |
-| 12 | HIT_416 |
-| 13 | CCNU NLP |
-| 14 | DUFL2025 |
-| 15 | zzunlp |
-| 16 | NP-ESSAY |
-| 17 | 炼丹师_zzunlp |
-| 18 | BIT ESSAY |
-| 19 | Prompt |
+|:-------:|:-------:|:-------:|
+| 1 | ZZU-NLP | Zhengzhou University |
+| 2 | Cloud Lab | South China Normal University |
+| 3 | liberty | SOOCHOW UNIVERSITY |
+| 4 | ZZUNLP_Han | Zhengzhou University |
+| 5 | Fighting! | Zhengzhou University |
+| 6 | 西西恩优NLP | Central China Normal University |
+| 7 | TW-NLP | Beijing SmartDot Technology Co., Ltd. |
+| 8 | YouTuLab_Jarvis | Tencent YouTu Lab |
+| 9 | YNU-HPCC | Yunnan University |
+| 10 | CGCL-NLP | School of Computer Science and Technology, Huazhong University of Science and Technology |
+| 11 | shmtuCFL | Shanghai Maritime University |
+| 12 | HIT_416 | Harbin Institute of Technology |
+| 13 | CCNU NLP | Central China Normal University School of Computer Science |
+| 14 | DUFL2025 | Dalian University of Foreign Languages |
+| 15 | zzunlp | Zhengzhou University |
+| 16 | NP-ESSAY | Nanjing University |
+| 17 | 炼丹师_zzunlp | Zhengzhou University |
+| 18 | BIT ESSAY | Beijing Institute of Technology |
+| 19 | Prompt | Central China Normal University |
 
 # News
 | Date | News |
