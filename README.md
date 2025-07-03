@@ -9,7 +9,7 @@ For more information, please read the [Task Guideline.md](https://github.com/cub
 # How to participate
 Please fill the Please fill the [registration form](https://github.com/cubenlp/EOTGC-2025NLPCC/raw/main/NLPCC2025.SharedTask2.RegistrationForm.doc) and sent it to hx_dong@stu.ecnu.edu.cn. If the registration works well, you may found your team name in the table below within 48 hours:
 
-| ID | Team Name |
+| ID | Team Name | Organization |
 |:-------:|:-------:|:-------:|
 | 1 | ZZU-NLP | Zhengzhou University |
 | 2 | Cloud Lab | South China Normal University |
